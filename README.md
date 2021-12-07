@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning JavaScript using a website called freecodecamp.org
 - 💞️ I’m looking to collaborate on future GitHub projects
 - 📫 How to reach me: You can contact me by email @ lstriker1268@gmail.com
+- If you also need to reach me using another method, you can DM me on Discord: Lstriker1268#0518
