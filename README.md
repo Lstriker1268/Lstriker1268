@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lstriker1268
-- 👀 I’m interested in Game Development and Electrical Engineering
+- 👀 I’m interested in Game Development and Cybersecurity!
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on future GitHub projects
 - 📫 How to reach me: You can contact me by email @ lstriker1268@gmail.com
